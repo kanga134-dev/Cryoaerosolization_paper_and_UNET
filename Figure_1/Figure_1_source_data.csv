@@ -1,0 +1,815 @@
+series_type,series_name,point_index,volumetric_flow_rate_mL_h,cooling_rate_K_min,cooling_rate_lower_K_min,cooling_rate_upper_K_min,droplet_diameter_m,model_Ntot_min_m^-3,model_Ntot_max_m^-3,notes
+scatter_point,Akiyama et al. (conduction),1,0.036,432000,,,,,,Numerical point used directly in Figure_1.m
+scatter_point,Akiyama et al. (conduction),2,0.0072,1320000,,,,,,Numerical point used directly in Figure_1.m
+scatter_point,Akiyama et al. (conduction),3,0.0072,2220000,,,,,,Numerical point used directly in Figure_1.m
+scatter_point,Demirci et al. (convection),1,0.5399999999999999,50000,,,,,,Numerical point used directly in Figure_1.m
+scatter_point,Demirci et al. (convection),2,450.0,1800,,,,,,Numerical point used directly in Figure_1.m
+scatter_point,de Vries et al. (convection),1,240,9600,,,,,,Numerical point used directly in Figure_1.m
+scatter_point,Zhan et al. (conduction),1,36.0,17500.0,,,,,,Numerical point used directly in Figure_1.m
+scatter_point,Zhan et al. (conduction),2,144.0,9000,,,,,,Numerical point used directly in Figure_1.m
+scatter_point,This work: LN2 co-flow (convection),1,36.0,100000.0,,,,,,Numerical point used directly in Figure_1.m
+scatter_point,This work: LN2 co-flow (convection),2,36.0,130000.0,,,,,,Numerical point used directly in Figure_1.m
+scatter_point,This work: LN2 co-flow (convection),3,36.0,160000.0,,,,,,Numerical point used directly in Figure_1.m
+scatter_point,This work: LN2 co-flow (convection),4,228.0,70000.0,,,,,,Numerical point used directly in Figure_1.m
+scatter_point,This work: LN2 co-flow (convection),5,132.0,70000.0,,,,,,Numerical point used directly in Figure_1.m
+scatter_point,This work: no LN2 co-flow (convection),1,132.0,15000.0,,,,,,Numerical point used directly in Figure_1.m
+model_band,Convection + latent heat model band,1,0.0031622776601683794,,24371927.310538564,16342460554.05872,1.0177151706893671e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,2,0.0032642578797673237,,23818450.84630583,15833548299.958221,1.0285397222124914e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,3,0.0033695268571247773,,23278535.141706165,15340501375.219423,1.039479405079877e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,4,0.00347819065131413,,22751824.839896698,14862824821.331976,1.0505354438435441e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,5,0.0035903587417053843,,22237974.410290826,14400039128.573616,1.0617090760800077e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,6,0.003706144138266228,,21736647.865848012,13951679753.66711,1.0730015525288079e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,7,0.0038256634954202126,,21247518.488725938,13517296652.500168,1.0844141372325154e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,8,0.003949037229576702,,20770268.56404295,13096453827.43774,1.0959481076782214e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,9,0.0040763896404510825,,20304589.12150642,12688728888.77097,1.107604754940537e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,10,0.004207849036297403,,19850179.684670087,12293712629.861204,1.1193853838261121e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,11,0.004343547863179659,,19406748.027590953,11911008615.551474,1.1312913130196904e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,12,0.004483622838411911,,18974009.9386629,11540232783.43098,1.1433238752317184e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,13,0.004628215088301735,,18551688.99141125,11181013057.551136,1.1554844173475253e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,14,0.0047774702903357735,,18139516.322038874,10832988974.20427,1.1677743005780889e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,15,0.004931538819950574,,17737230.413521174,10495811319.388382,1.1801949006124047e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,16,0.005090575902036681,,17344576.886052996,10169141777.592808,1.1927476077714753e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,17,0.005254741767328584,,16961308.293656766,9852652591.551231,1.2054338271639407e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,18,0.00542420181383803,,16587183.926767113,9546026232.6197,1.2182549788433585e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,19,0.005599126773493446,,16221969.620612387,9248955081.44754,1.231212497967162e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,20,0.005779692884153313,,15865437.5692194,8961141118.61988,1.2443078349573068e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,21,0.005966082067166745,,15517366.144872898,8682295624.96037,1.2575424556626257e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,22,0.006158482110660267,,15177539.72286604,8412138891.192206,1.2709178415229112e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,23,0.006357086858735376,,14845748.511383794,8150399936.66549,1.2844354897347419e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,24,0.006562096406767561,,14521788.386365226,7896816236.867388,1.2980969134190773e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,25,0.006773717303003455,,14205460.731196018,7651133459.441214,1.3119036417906265e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,26,0.006992162756659375,,13896572.281086482,7413105208.448311,1.3258572203290285e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,27,0.007217652852730735,,13594934.971995227,7182492776.615606,1.3399592109518434e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,28,0.007450414773728917,,13300365.793962482,6959064905.319208,1.3542111921893918e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,29,0.007690683028568884,,13012686.648721404,6742597552.062581,1.3686147593614484e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,30,0.007938699688838232,,12731724.21145975,6532873665.215202,1.3831715247558184e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,31,0.0081947146326856,,12457309.796608001,6329682965.784964,1.39788311780881e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,32,0.0084589857965743,,12189279.227533858,6132821736.004612,1.4127511852876282e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,33,0.00873177943515475,,11927472.710026616,5942092614.51943,1.4277773914747114e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,34,0.009013370389517439,,11671734.709458694,5757304397.970112,1.4429634183540211e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,35,0.009304042364096874,,11421913.83151453,5578271848.770904,1.4583109657993207e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,36,0.009604088212505378,,11177862.706380893,5404815508.889738,1.473821751764454e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,37,0.00991381023258466,,10939437.876295537,5236761519.442785,1.4894975124756454e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,38,0.01023352047097258,,10706499.686354365,5073941445.921921,1.505340002625848e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,39,0.01056354103749187,,10478912.178480241,4916192108.87913,1.5213509955711586e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,40,0.010904204429677527,,10256542.98845954,4763355419.897473,1.537532283529323e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,41,0.0112558538677699,,10039263.245955475,4615278222.683553,1.553885677780345e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,42,0.011618843640511002,,9826947.477409638,4471812139.121418,1.5704130088692437e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,43,0.011993539462092343,,9619473.511746375,4332813420.133118,1.5871161268109514e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,44,0.01238031884061398,,9416722.38879676,4198142801.1957006,1.603996901297402e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,45,0.012779571458426009,,9218578.270361602,4067665362.369274,1.621057221906816e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,46,0.013191699564735716,,9024928.353835443,3941250392.6952233,1.638298998315216e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,47,0.013617118380875795,,8835662.788315715,3818771258.8281856,1.6557241605101886e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,48,0.014056256518642157,,8650674.593123578,3700105277.7695055,1.673334659006918e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,49,0.014509556412122692,,8469859.578665098,3585133593.574067,1.6911324650665256e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,50,0.014977474763452016,,8293116.269563772,3473741057.906532,1.7091195709167225e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,51,0.015460483002941375,,8120345.829997204,3365816114.3266516,1.7272979899748136e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,52,0.01595906776404731,,7951451.991172994,3261250686.187275,1.745669757073074e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,53,0.016473731373657517,,7786340.980880687,3159940068.0322185,1.76423692868652e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,54,0.01700499235818793,,7624921.455058713,3061782820.3847046,1.783001583163106e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,55,0.017553385966000982,,7467104.431316839,2966680667.820485,1.8019658209563657e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,56,0.01811946470667124,,7312803.22435669,2874538400.223102,1.8211317648605318e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,57,0.018703798907641827,,7161933.3832344515,2785263777.121882,1.8405015602481527e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,58,0.019306977288832496,,7014412.630411593,2698767435.01643,1.860077375310241e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,59,0.01992960755577817,,6870160.802541143,2614962797.5943522,1.8798614012989716e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,60,0.02057231701189557,,6729099.792938475,2533765988.7518663,1.8998558527729627e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,61,0.021235753190494904,,6591153.495687271,2455095748.3297625,1.9200629678451686e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,62,0.021920584507173258,,6456247.751332619,2378873350.4799447,1.9404850084334057e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,63,0.022627500933246898,,6324310.294114868,2305022524.580402,1.961124260513543e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,64,0.023357214690901226,,6195270.700698954,2233469378.6190367,1.9819830343753873e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,65,0.02411046097075855,,6069060.340355603,2164142324.9692297,2.00306366488129e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,66,0.024887998672586672,,5945612.326551819,2096972008.4825094,2.0243685117275042e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,67,0.025690611169894528,,5824861.469909579,2031891236.825944,2.0458999597083193e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,68,0.02651910709918538,,5706744.232492668,1968834912.9941416,2.0676604189830094e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,69,0.0273743211746625,,5591198.683383001,1907739969.9280152,2.089652325345618e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,70,0.028257115029208284,,5478164.455508768,1848545307.1744819,2.1118781404976098e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,71,0.029168378082484195,,5367582.703687876,1791191729.5233693,2.1343403523234306e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,72,0.030109028437025925,,5259396.063851424,1735621887.5598288,2.1570414751689896e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,73,0.031080013803236693,,5153548.613412743,1681780220.0724175,2.1799840501231066e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,74,0.03208231245421079,,5049985.832748743,1629612898.2588978,2.2031706453019547e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,75,0.033116934211349,,4948654.567761247,1579067771.6736553,2.226603856136526e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,76,0.03418492146175929,,4849502.993486921,1530094315.8623276,2.2502863056631562e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,77,0.03528735020846752,,4752480.578725419,1482643581.6309755,2.274220644817138e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,78,0.03642533115449638,,4657538.051656166,1436668145.8987665,2.298409552729458e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,79,0.037600010821904846,,4564627.36641517,1392122064.0847054,2.32285573702669e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,80,0.03881257270691538,,4473701.6706040595,1348960823.9805477,2.347561934134077e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,81,0.040064238472292985,,4384715.273704363,1307141301.0634587,2.3725309095818406e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,82,0.0413562691781771,,4297623.6163709,1266621715.2034965,2.397765458314742e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,83,0.042689966552606554,,4212383.24057885,1227361588.7223527,2.4232684050049387e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,84,0.04406667430301786,,4128951.7605998632,1189321705.7611554,2.4490426043681722e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,85,0.04548777947003778,,4047287.8347833417,1152464072.916484,2.475090941483313e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,86,0.04695471382493428,,3967351.138119654,1116751881.1049848,2.501416332115307e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,87,0.04846895531213418,,3889102.3355627693,1082149468.6182253,2.528021723041558e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,88,0.05003202953826004,,3812503.0560904867,1048622285.3306501,2.5549100923817777e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,89,0.05164551130918742,,3737515.8674810296,1016136858.0245999,2.5820844499313497e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,90,0.05331102621667035,,3664104.2517854557,984660756.7975595,2.609547837498234e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,91,0.05503025227613395,,3592232.581475884,954162562.5178112,2.637303329243457e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,92,0.05680492161728426,,3521866.0962501834,924611835.2957863,2.665354032025224e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,93,0.05863682222923843,,3452970.8804743057,895979083.9393908,2.6937030857466904e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,94,0.06052779976193349,,3385513.84124402,868235736.3625963,2.7223536637074303e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,95,0.062479759385628976,,3319462.687048304,841354110.917522,2.751308972958649e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,96,0.06449466771037624,,3254785.9070172384,815307388.6211908,2.7805722546621647e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,97,0.06657455476738906,,3191452.75073769,790069586.2490212,2.810146784453219e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,98,0.06872151605431122,,3129433.208620587,765615530.2679957,2.8400358728071356e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,99,0.07093771464644173,,3068697.9928040863,741920831.5832961,2.8702428654098874e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,100,0.07322538337604534,,3009218.5185773405,718961861.0730075,2.9007711435325997e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,101,0.07558682708194318,,2950966.886310081,696715725.8862897,2.931624124410041e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,102,0.07802442493165049,,2893915.863873639,675160246.4811841,2.9628052616231327e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,103,0.08054063281840114,,2838038.869539421,654273934.378962,2.9943180454855365e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,104,0.08313798583547334,,2783309.9553413284,634035970.6126511,3.0261660034343445e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,105,0.0858191008303103,,2729703.790888944,614426184.848064,3.058352700424931e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,106,0.08858667904100828,,2677195.6476187324,595425035.1563404,3.090881739330003e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,107,0.09144350881782871,,2625761.3834708654,577013588.4176639,3.123756761342889e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,108,0.09439246843247669,,2575377.4279796225,559173501.3364463,3.1569814463851284e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,109,0.09743652897797535,,2526020.7677657246,541887002.0488964,3.190559513518387e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,110,0.10057875736205836,,2477668.932419217,525136872.30448276,3.224494721360754e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,111,0.10382231939709657,,2430299.9807619303,508906430.20336646,3.258790868507474e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,112,0.10717048298967109,,2383892.4874788164,493179513.47246313,3.293451793956146e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,113,0.11062662143300736,,2338425.530107786,477940463.263309,3.328481377536447e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,114,0.1141942168055866,,2293878.676377977,463174108.45544875,3.3638835403444344e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,115,0.11787686347935872,,2250231.9718866725,448865750.4495652,3.3996622451814495e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,116,0.12167827174109236,,2207465.928105357,435001148.43506163,3.435821496997712e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,117,0.1256022715305086,,2165561.5107057295,421566505.1172917,3.4723653433406104e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,118,0.12965281629896683,,2124500.1281966614,408548452.8900814,3.5092978748077806e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,119,0.1338339869925884,,2084263.62086347,395934040.43965685,3.5466232255049864e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,120,0.13814999616383222,,2044834.2500010054,383710719.7664983,3.584345573508881e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,121,0.14260519221566487,,2006194.6874323974,371866333.6120859,3.622469141334688e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,122,0.1472040637826002,,1968328.0053054816,360389103.2778959,3.660998196408855e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,123,0.15195124425302323,,1931217.6661591812,349267616.82440525,3.699937051546731e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,124,0.1568515164373548,,1894847.5132523219,338490817.63823986,3.739290065435338e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,125,0.16190981738675872,,1859201.7611476239,328047993.35598516,3.779061643121257e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,126,0.16713124336724874,,1824264.9865437443,317928765.1335163,3.819256236503725e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,127,0.1725210549942041,,1790022.1193485353,308123077.25007296,3.859878344832959e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,128,0.1780846825324682,,1756458.4339868205,298621187.0366271,3.9009325152137886e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,129,0.183827731367371,,1723559.5409361953,289413655.11842173,3.9424233431146436e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,130,0.18975598765218504,,1691311.3784845704,280491335.96187735,3.984355472881959e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,131,0.1958754241377066,,1659700.204703329,271845368.71636796,4.026733598260044e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,132,0.20219220618983547,,1628712.5896301528,263467168.34165967,4.069562462916485e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,133,0.20871269800121428,,1598335.4076557553,255348417.01210257,4.1128468609731365e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,134,0.21544346900318834,,1568555.8301088922,247481055.7889333,4.15659163754276e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,135,0.22239130048454334,,1539361.3180342305,239857276.5523245,4.200801689271372e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,136,0.22956319242369097,,1510739.6151577674,232469514.1850758,4.2454819648863495e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,137,0.23696637054118613,,1482678.7410346568,225310439.0000886,4.290637465750386e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,138,0.24460829357967992,,1455166.9843744603,218372949.40402234,4.33627324642132e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,139,0.2524966608186434,,1428192.8965389712,211650164.78975925,4.3823944152179274e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,140,0.26063941983143496,,1401745.2852078853,205135418.6505363,4.429006134791732e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,141,0.269044774492523,,1375813.208207762,198822251.90882993,4.476113622704889e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,142,0.2777211932429355,,1350385.967499803,192704406.45328924,4.523722152014231e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,143,0.2866774176222607,,1325453.103322151,186775818.87722772,4.5718370518615116e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,144,0.2959224710757956,,1301004.3884824878,181030614.4123825,4.620463708069929e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,145,0.30546566804571773,,1277029.8227968698,175463101.05184835,4.6696075637470044e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,146,0.3153166233554365,,1253519.6276708206,170067763.85628384,4.719274119893861e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,147,0.3254852618965799,,1230464.2408188493,164839259.43767127,4.7694689360209854e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,148,0.3359818286283781,,1207854.311118622,159772410.61508816,4.8201976307705465e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,149,0.34681689889951695,,1185680.6935961768,154862201.2371247,4.871465882545329e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,150,0.35800138910285806,,1163934.4445386434,150103771.16574934,4.9232794301443445e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,151,0.36954656767376554,,1142606.8167310094,145492411.41658005,4.975644073405224e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,152,0.38146406644311776,,1121689.2548136245,141023559.45068514,5.0285656738534334e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,153,0.3937658923564388,,1101173.3907571873,136692794.6131862,5.082050155358381e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,154,0.4064644395709628,,1081051.0394520527,132495833.71407898,5.1361035047965295e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,155,0.4195725019428171,,1061314.194408808,128428526.74683835,5.190731772721543e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,156,0.4331032859169001,,1041955.0235671401,124486852.74050876,5.245941074041561e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,157,0.44707042383244866,,1022965.8652100902,120666915.74111256,5.3017375887036867e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,158,0.4614879876576939,,1004339.2239808845,116964940.9183445,5.3581275623857465e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,159,0.47637050316744856,,986067.7669996151,113377270.79364213,5.415117307195417e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,160,0.49173296457790205,,968144.3200771011,109900361.58584674,5.472713202376772e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,161,0.5075908496533773,,950561.864023358,106530779.67078528,5.5309216950243566e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,162,0.5239601353002644,,933313.531048144,103265198.15121832,5.5897493008048655e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,163,0.5408573136638394,,916392.6012511686,100100393.53371492,5.6492026046864664e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,164,0.5582994087441919,,899792.4991995657,97033242.50911364,5.7092882616759106e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,165,0.5763039935480013,,883506.7905903332,94060718.83334188,5.7700129975634754e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,166,0.5948892077934337,,867529.1789954971,91179890.30546208,5.8313836096758175e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,167,0.6140737761860094,,851853.5026878159,88387915.8399108,5.893406967636847e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,168,0.6338770272838488,,836473.7315448995,85682042.6299933,5.9560900141366974e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,169,0.6543189129712969,,821383.9640296923,83059603.39978763,6.0194397657088566e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,170,0.6754200285605587,,806578.4242453038,80518013.74169903,6.0834633135155795e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,171,0.697201633541591,,792051.459062238,78054769.53699392,6.148167824141652e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,172,0.7196856730011522,,777797.5353161383,75667444.45672564,6.21356054039659e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,173,0.7428947997325991,,763811.2370741847,73353687.54054312,6.27964878212538e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,174,0.766852397058701,,750087.2629683653,71111220.8509544,6.346439947027831e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,175,0.7915826023904678,,736620.4235938712,68937837.20069093,6.413941511486661e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,176,0.8171103315457203,,723405.6389709248,66831397.95089318,6.482161031404366e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,177,0.8434613038519153,,710437.9360683835,64789830.87790813,6.551106143049007e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,178,0.8706620680585127,,697712.4463875225,62811128.10655886,6.620784563908996e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,179,0.8987400290849806,,685224.4036044368,60893344.107813954,6.691204093556956e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,180,0.927723475631406,,672969.1412695377,59034593.758846916,6.762372614522782e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,181,0.957641608679517,,660942.0905626756,57233050.46354065,6.834298093175994e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,182,0.9885245709128281,,649138.7781024491,55486944.331552245,6.906988580617449e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,183,1.0204034770855617,,637554.8238083071,53794560.414111,6.980452213580569e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,184,1.053310445370937,,626185.9388140781,52154236.99478077,7.05469721534214e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,185,1.0872786297204007,,615027.9234316193,50564363.9334733,7.12973189664279e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,186,1.1223422532664185,,604076.6651632822,49023381.062050916,7.205564656617269e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,187,1.1585366428024675,,593328.1367619578,47529776.62991049,7.282203983734622e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,188,1.1958982643749794,,582778.3943374772,46082085.79798996,7.359658456748364e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,189,1.234464760023076,,572423.5755081866,44678889.17968764,7.437936745656752e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,190,1.2742749857031335,,562259.8975965446,43318811.42723148,7.517047612673269e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,191,1.3153690504363764,,552283.6558676148,42000519.8620805,7.596999913207459e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,192,1.357788356718929,,542491.2218093772,40722723.14798712,7.677802596856148e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,193,1.401575642235062,,532879.0414537808,39484170.00538804,7.759464708405247e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,194,1.446775022915648,,523443.6337375121,38283647.96583694,7.841995388842194e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,195,1.4934320373851964,,514181.5889014791,37119982.16522972,7.92540387637916e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,196,1.5415936928422718,,505089.566928023,35992034.174612865,8.009699507487147e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,197,1.5913085124195103,,496164.29601491225,34898700.86740357,8.09489171794109e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,198,1.642626584070932,,487402.57108519034,33838913.32188611,8.180990043876049e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,199,1.6955996110358358,,478801.25233197573,32811635.757884912,8.268004122854665e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,200,1.7502809639301011,,470357.263797336,31815864.506548747,8.355943694945962e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,201,1.8067257345173682,,462067.5919843837,30850627.012214173,8.444818603815603e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,202,1.864990791214298,,453929.28450175916,29914980.865347724,8.534638797827766e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,203,1.9251348363858123,,445939.4487396926,29008012.865598414,8.62541433115873e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,204,1.9872184654880554,,438095.2505768602,28128838.114021935,8.717155364922312e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,205,2.0513042281186395,,430393.9131172611,27276599.133567188,8.809872168307256e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,206,2.117456691035712,,422832.7154563734,26450465.01694414,8.903575119726741e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,207,2.1857425032093265,,415408.99147586024,25649630.60101963,8.998274707980109e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,208,2.256230462970635,,408120.12866611907,24873315.66691444,9.093981533426938e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,209,2.328991587326589,,400963.56697598286,24120764.165000323,9.190706309173613e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,210,2.4040991835099716,,393936.7976889038,23391243.464020904,9.288459862272528e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,211,2.4816289228368262,,387037.36232496763,22684043.623585206,9.38725313493401e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,212,2.561658916945727,,380262.8515680982,21998476.68930444,9.487097185751167e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,213,2.6442697964956934,,373610.90421783505,21333876.009867195,9.588003190937755e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,214,2.7295447924020073,,367079.20616508275,20689595.575368956,9.689982445579193e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,215,2.817569819691825,,360665.4893912396,20065009.37623381,9.793046364896904e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,216,2.908433564064048,,354367.530990137,19459510.78208634,9.897206485526104e-05,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,217,3.0022275712406343,,348183.1522122315,18872511.939952474,0.00010002474466807163,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,218,3.09904633919943,,342110.2175305058,18303443.191186685,0.00010108862092090718,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,219,3.198987413381393,,336146.6337275507,17751752.506542087,0.00010216381270056662,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,220,3.3021514849681757,,330290.34900331154,17216904.938818146,0.00010325044036047172,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,221,3.4086424923290233,,324539.3521030004,16698382.092538504,0.00010434862553413889,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,222,3.518567725739263,,318891.6714646839,16195681.6101281,0.00010545849114879445,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,223,3.632037935475856,,313345.3743860659,15708316.674075415,0.00010658016143913497,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,224,3.7491674433988895,,307898.5662100122,15235815.52458242,0.00010771376196123326,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,225,3.8700742581314898,,302549.38952835446,14777720.992218986,0.00010885941960659301,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,226,3.9948801939541703,,297296.02340353746,14333590.045114774,0.00011001726261635261,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,227,4.123710993533366,,292136.68260768335,13902993.350235747,0.00011118742059563982,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,228,4.256696454607871,,287069.616878651,13485514.84830631,0.0001123700245280795,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,229,4.39397056076079,,282093.1101926845,13080751.341952173,0.00011356520679045554,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,230,4.535671616408707,,277205.48005325487,12688312.096652154,0.00011477310116752853,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,231,4.6819423861441605,,272405.0767957079,12307818.454099882,0.00011599384286701124,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,232,4.832930238571752,,267690.28290734143,11938903.457588887,0.00011722756853470333,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,233,4.988787294782838,,263059.51236254256,11581211.489046508,0.00011847441626978715,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,234,5.149670581618343,,258511.2099726316,11234397.917354094,0.0001197345256402859,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,235,5.3157421898741735,,254043.85075006157,10898128.75760172,0.00012100803769868645,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,236,5.487169437608604,,249655.93928662915,10572080.340936866,0.0001222950949977285,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,237,5.664125038716113,,245346.0091453747,10255938.994677497,0.0001235958416063613,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,238,5.846787276937589,,241112.62226584123,9949400.73236954,0.00012491042312587,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,239,6.035340185482205,,236954.36838237732,9652170.95347913,0.00012623898670617448,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,240,6.229973732441847,,232869.8644551847,9363964.152419938,0.00012758168106230007,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,241,6.430884012185032,,228857.75411380132,9084503.636624513,0.00012893865649102456,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,242,6.638273442923081,,224916.70711273528,8813521.253378209,0.0001303100648877021,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,243,6.852350970647541,,221045.41879896267,8550757.12514298,0.00013169605976326554,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,244,7.073332279644439,,217242.6095910122,8295959.39310656,0.00013309679626140997,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,245,7.301440009797405,,213507.02446936653,8048883.968700937,0.00013451243117595932,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,246,7.536903980898542,,209837.43247791714,7809294.292842227,0.00013594312296841694,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,247,7.779961424193153,,206232.62623621506,7576961.102651336,0.0001373890317857035,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,248,8.030857221391512,,202691.42146226703,7351662.205422706,0.0001388503194780832,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,249,8.289844151388566,,199212.6565056331,7133182.259615401,0.00014032714961728087,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,250,8.55718314494001,,195795.1918905872,6921312.562648109,0.00014181968751479158,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,251,8.833143547551487,,192437.90986910876,6715850.845286144,0.0001433281002403849,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,252,9.118003390845681,,189139.71398347628,6516601.072415284,0.00014485255664080648,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,253,9.41204967268067,,185899.52863824583,6323373.250003783,0.00014639322735867795,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,254,9.715578646301857,,182716.29868139565,6135983.238059864,0.00014795028485159814,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,255,10.028896118818778,,179588.98899442726,5954252.569398123,0.00014952390341144752,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,256,10.352317759307388,,176516.5840912197,5778008.2740341555,0.00015111425918389761,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,257,10.686169416848418,,173498.08772543326,5607082.709032136,0.0001527215301881284,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,258,11.030787448822151,,170532.52250627085,5441313.39363578,0.00015434589633675524,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,259,11.386519059790261,,167618.92952240576,5280542.8495183,0.00015598753945596737,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,260,11.753722651306367,,164756.367973888,5124618.445991975,0.00015764664330588128,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,261,12.132768183007542,,161943.91481185047,4973392.250023157,0.00015932339360110994,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,262,12.524037545350732,,159180.66438583692,4826720.8809031155,0.00016101797803155134,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,263,12.927924944369414,,156465.7280985793,4684465.36942995,0.00016273058628339768,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,264,13.344837298838383,,153798.23406805596,4546491.0214612,0.00016446141006036825,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,265,13.775194650246691,,151177.32679666628,4412667.285701171,0.0001662106431051683,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,266,14.219430585991676,,148602.16684736314,4282867.625591357,0.00016797848122117556,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,267,14.67799267622069,,146071.930526583,4156969.3951761983,0.0001697651222943582,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,268,15.15134292476053,,143585.80957382478,4034853.7188206115,0.00017157076631542557,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,269,15.639958234588738,,141143.01085772694,3916405.3746595494,0.00017339561540221404,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,270,16.14433088831602,,138742.75607849655,3801512.6816633977,0.00017523987382231176,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,271,16.664969044163733,,136384.28147654905,3690067.3902068376,0.00017710374801592382,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,272,17.20239724793599,,134066.8375472216,3581964.5760322916,0.00017898744661898016,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,273,17.757156961502485,,131789.68876142194,3477102.537502258,0.00018089118048648966,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,274,18.329807108324356,,129552.11329208252,3375382.6960383737,0.00018281516271614282,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,275,18.92092463657255,,127353.40274629148,3276709.499648124,0.0001847596086721649,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,276,19.53110510040633,,125192.861902973,3180990.3294431404,0.00018672473600942315,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,277,20.160963259997345,,123069.80845599552,3088135.4090561573,0.00018871076469779047,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,278,20.811133700903948,,120983.5727625873,2998057.7168664513,0.0001907179170467682,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,279,21.482271473419527,,118933.49759694279,2910672.9009465324,0.00019274641773037038,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,280,22.17505275253932,,116918.93790890479,2825899.1966454377,0.00019479649381227325,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,281,22.890175519210516,,114939.26058761084,2743657.3467267053,0.00019686837477123217,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,282,23.628360263551777,,112993.84422999626,2663870.5239816504,0.0001989622925267683,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,283,24.390350710751026,,111082.07891404502,2586464.2562409784,0.00020107848146512915,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,284,25.17691457037277,,109203.36597668643,2511366.3537102137,0.00020321717846552518,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,285,25.988844309829542,,107357.11779623557,2438506.838556765,0.0002053786229266449,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,286,26.826957952797247,,105542.75757927846,2367817.876678624,0.0002075630567934525,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,287,27.6920999033786,,103759.71915190408,2299233.7115869056,0.00020977072458427067,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,288,28.585141796844745,,102007.44675519063,2232690.6003366215,0.00021200187341815065,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,289,29.506983377812645,,100285.3948448526,2168126.751441968,0.0002142567530425343,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,290,30.45855340674284,,98593.02789495756,2105482.264714531,0.00021653561586121002,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,291,31.440810595670527,,96929.82020562678,2044699.0729646743,0.00021883871696256577,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,292,32.45474457411332,,95295.25571463167,1985720.88550822,0.0002211663141481429,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,293,33.50137688612842,,93688.8278128026,1928493.1334223493,0.00022351866796149368,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,294,34.58176201952377,,92110.0391631685,1872962.9164964259,0.0002258960417173455,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,295,35.69698846826063,,90558.40152374594,1819078.9518250527,0.00022829870153107603,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,296,36.848179829116766,,89033.4355739006,1766791.5239924411,0.00023072691634850042,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,297,38.036495933716715,,87534.67074420315,1716052.4367985972,0.00023318095797597683,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,298,39.263134017068396,,86061.64504970558,1666814.9664795075,0.00023566110111083126,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,299,40.529329923784005,,84613.90492656521,1619033.8163749257,0.00023816762337210647,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,300,41.83635935320024,,83191.00507194333,1572665.0729988066,0.0002407008053316376,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,301,43.18553914465228,,81792.50828711076,1527666.163468873,0.0002432609305454583,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,302,44.578228604197065,,80417.98532369011,1483995.814253078,0.00024584828558554166,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,303,46.01583087412105,,79067.01473296992,1441614.0111921562,0.00024846316007187745,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,304,47.499794346614124,,77739.18271822385,1400481.9607585915,0.0002511058467048914,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,305,49.03161412303265,,76434.08298997232,1360562.0525136716,0.00025377664129820946,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,306,50.61283352022224,,75151.3166241241,1321817.8227254369,0.00025647584281176963,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,307,52.24504562541794,,73890.49192293672,1284213.9191114968,0.000259203753385287,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,308,53.9298949012887,,72651.2242787363,1247716.066671815,0.00026196067837207454,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,309,55.66907884274202,,71433.13604033967,1212291.0345776659,0.0002647469263732224,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,310,57.46434968715974,,70235.85638211996,1177906.6040839516,0.0002675628092721425,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,311,59.31751617978678,,69059.0211756626,1144531.5374331882,0.00027040864226947944,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,312,61.2304453960519,,67902.27286395454,1112135.547720354,0.000273284743918393,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,313,63.20506462265646,,66765.26033805693,1080689.269688829,0.0002761914361602162,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,314,65.24336329932622,,65647.63881620645,1050164.2314285429,0.0002791290443604916,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,315,67.34739502318335,,64549.06972529599,1020532.8269483298,0.000282097897345393,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,316,69.51927961775606,,63469.22058468532,991768.2895954304,0.0002850983274385318,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,317,71.76120526871287,,62407.76489229238,963844.6662958212,0.00028813067049815683,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,318,74.0754307284717,,61364.38201291812,936736.7925899575,0.00029119526595474906,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,319,76.46428759190529,,60338.7570687587,910420.2684392558,0.00029429245684901666,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,320,78.93018264543566,,59330.58083205974,884871.434779441,0.0002974225898702931,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,321,81.47560029188539,,58339.54961986766,860067.3507975742,0.00030058601539534574,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,322,84.10310505352605,,57365.36519083569,835985.7719103822,0.00030378308752759435,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,323,86.81534415584922,,56407.7346440415,812605.1284221087,0.000307014164136749,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,324,89.6150501946605,,55466.370319774986,789904.5048408544,0.00031027960689886884,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,325,92.50504388918488,,54540.989702255785,767863.6198329987,0.000313579781336847,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,326,95.48823692395656,,53631.315324241354,746462.8067959358,0.0003169150568613253,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,327,98.56763488235805,,52737.074673485346,725682.9950299549,0.0003202858068120464,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,328,101.74634027476063,,51858.00010101053,705505.6914907384,0.0003236924084996424,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,329,105.0275556643215,,50993.8287311569,685912.9631044548,0.00032713524324787084,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,330,108.4145868935835,,50144.30237337011,666887.41962805,0.00033061469643629857,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,331,111.91084641512968,,49309.16743569414,648412.1970378384,0.00033413115754343987,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,332,115.51985672964804,,48488.17483993349,630470.9414300492,0.00033768502019035335,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,333,119.24525393487008,,47681.079938451345,613047.7934174619,0.0003412766821847025,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,334,123.09079138896018,,46887.64243256924,596127.3730067755,0.0003449065455652856,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,335,127.06034349204326,,46107.62629253758,579694.7649418474,0.00034857501664703765,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,336,131.15790958968503,,45340.799679043135,563735.5044983528,0.0003522825060665124,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,337,135.38761800225447,,44586.93486622397,548235.5637159179,0.0003560294288278478,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,338,139.75373018422925,,43845.808166160336,533181.3380541747,0.0003598162043492199,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,339,144.26064501763435,,43117.19985481206,518559.63345962693,0.0003636432565097912,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,340,148.91290324394086,,42400.894099373385,504357.65383061016,0.0003675110136971589,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,341,153.7151920388865,,41696.678887016446,490562.988868041,0.000371419908855306,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,342,158.67234973483178,,41004.345954995464,477163.60230000725,0.0003753703795330646,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,343,163.78937069540646,,40323.69072208444,464147.8204686466,0.0003793628679330932,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,344,169.07141034735818,,39654.51222132134,451504.32126810536,0.0003833978209613756,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,345,174.5237903746733,,38996.613034032984,439222.1234227211,0.000387475690277246,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,346,180.15200408020237,,38349.79922511456,427290.5760949112,0.00039159693234394616,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,347,185.96172192019458,,37713.88027953879,415699.34881256695,0.0003957620084797212,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,348,191.95879721731112,,37088.66904007047,404438.42170608987,0.0003999713849094565,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,349,198.14927205788163,,36473.98164616198,393498.07604548294,0.0004042255328168667,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,350,204.53938337933903,,35869.637474006275,382868.8850682341,0.0004085249283972379,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,351,211.1355692539681,,35275.459077724576,372541.7050890046,0.00041287005291073143,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,352,217.94447537529834,,34691.27213166592,362507.66688240966,0.0004172613927362542,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,353,224.97296175367862,,34116.905373796566,352758.16733045765,0.0004216994394259039,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,354,232.22810962777245,,33552.190550157924,343284.86132647656,0.00042618468975998944,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,355,239.71722859894683,,32996.96236037139,334079.6539275944,0.0004307176458026402,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,356,247.44786399573528,,32451.058404169544,325134.6927481068,0.00043529881495800557,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,357,255.42780447579773,,31914.31912893377,316442.36058628967,0.00043992871002705144,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,358,263.6650898730361,,31386.58777821784,307995.26827744895,0.000444607849264962,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,359,272.16801929777046,,30867.71034123851,299786.24776622304,0.00044933675643915084,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,360,280.94515949814064,,30357.535503313826,291808.34539136925,0.00045411596088789117,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,361,290.0053534911486,,29855.914597230683,284054.8153764804,0.0004589459975795663,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,362,299.357729472049,,29362.70155552318,276519.11352026847,0.00046382740717255353,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,363,309.0117100110557,,28877.752863644062,269194.8910802653,0.00046876073607574325,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,364,318.9770215466325,,28400.927514011644,262075.9888439684,0.0004737465365097021,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,365,329.2637041849333,,27932.086960915207,255156.43138165164,0.00047878536656848663,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,366,339.8821218152667,,27471.095076261805,248430.42147523435,0.0004838777902821157,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,367,350.84297255176733,,27017.81810614855,241892.33471778655,0.000489024377679704,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,368,362.1572995118075,,26572.12462824366,235536.71427840024,0.0004942257048532708,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,369,373.8365019419977,,26133.88550996088,229358.26582733204,0.0004994823540222253,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,370,385.8923467029907,,25702.973867411845,223351.85261647875,0.0005047949135985385,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,371,398.3369801246579,,25279.265025121123,217512.49071039516,0.0005101639782526078,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,372,411.18294024358283,,24862.636476489064,211835.3443632152,0.0005155901489798227,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,373,424.4431694352053,,24452.967844988125,206315.7215369813,0.0005210740331678388,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,374,438.13102745333055,,24050.140846078462,200949.06955702658,0.0005266162446645651,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,375,452.2603048901584,,23654.03924982861,195730.97090018558,0.000532217403846878,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,376,466.8452370703794,,23264.548844227822,190657.13911174407,0.0005378781376900629,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,377,481.9005183933432,,22881.557399176763,185723.41484716407,0.0005435990798379964,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,378,497.44131713774516,,22504.95463114318,180925.76203474068,0.0005493808706740741,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,379,513.4832907437549,,22134.632168470078,176260.26415546876,0.0005552241573928937,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,380,530.0426015879673,,21770.48351732356,171723.1206365131,0.0005611295940726984,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,381,547.1359332670895,,21412.404028268193,167310.64335478347,0.0005670978417485933,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,382,564.7805074067558,,21060.29086345768,163019.25324722746,0.0005731295684865392,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,383,582.9941010124094,,20714.04296442924,158845.4770245593,0.0005792254494581338,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,384,601.7950643797328,,20373.56102048989,154785.9439852419,0.000585386167016188,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,385,621.2023395826757,,20038.747437683392,150837.38292663742,0.0005916124107711071,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,386,641.2354795576917,,19709.50630832688,146996.61915034364,0.0005979048776680816,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,387,661.9146678034341,,19385.743381105956,143260.5715588121,0.0006042642720651028,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,388,683.2607387157406,,19067.366031717927,139626.24984045143,0.0006106913058118056,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,389,705.295198578401,,18754.283234052433,136090.75174048866,0.0006171866983291504,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,390,728.0402472308576,,18446.40553189944,132651.26041495832,0.000623751176689953,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,391,751.5188004346628,,18143.645011174496,129305.04186526367,0.0006303854757002703,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,392,775.7545129612414,,17845.915272651175,126049.44245083362,0.0006370903379816537,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,393,800.7718024241935,,17553.13140519158,122881.88647748086,0.0006438665140542732,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,394,826.5958738801812,,17265.209959464875,119799.87385913263,0.0006507147624209296,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,395,853.2527452231593,,16982.06892214493,116800.97785068347,0.0006576358496519589,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,396,880.7692733975471,,16703.62769057798,113882.84284978776,0.0006646305504710391,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,397,909.173181456745,,16429.807047911214,111043.18226547429,0.0006716996478419102,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,398,938.4930864942721,,16160.529138673708,108279.77645153376,0.0006788439330560179,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,399,968.758528475632,,15895.71744480126,105590.47070269349,0.0006860642058210862,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+model_band,Convection + latent heat model band,400,1000.0,,15635.296762096448,102973.17331165064,0.000693361274350635,100.0,200000.0,Band generated exactly from Figure_1.m by varying LN2 droplet number concentration Ntot
+trendline,Literature cooling rate trendline,1,0.0031622776601683794,1845976.1077000045,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,2,0.0032642578797673237,1816335.2041440886,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,3,0.0033695268571247773,1787170.2456234023,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,4,0.00347819065131413,1758473.5898717046,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,5,0.0035903587417053843,1730237.7173348952,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,6,0.003706144138266228,1702455.2292006202,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,7,0.0038256634954202126,1675118.845459514,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,8,0.003949037229576702,1648221.4029975815,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,9,0.0040763896404510825,1621755.853719201,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,10,0.004207849036297403,1595715.262700271,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,11,0.004343547863179659,1570092.8063710104,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,12,0.004483622838411911,1544881.7707279404,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,13,0.004628215088301735,1520075.549574573,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,14,0.0047774702903357735,1495667.6427903492,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,15,0.004931538819950574,1471651.654627377,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,16,0.005090575902036681,1448021.2920345138,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,17,0.005254741767328584,1424770.3630083604,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,18,0.00542420181383803,1401892.7749707357,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,19,0.005599126773493446,1379382.5331722028,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,20,0.005779692884153313,1357233.7391212252,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,21,0.005966082067166745,1335440.5890385562,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,22,0.006158482110660267,1313997.3723364358,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,23,0.006357086858735376,1292898.470122215,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,24,0.006562096406767561,1272138.353726,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,25,0.006773717303003455,1251711.5832519475,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,26,0.006992162756659375,1231612.806152811,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,27,0.007217652852730735,1211836.7558273864,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,28,0.007450414773728917,1192378.2502404705,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,29,0.007690683028568884,1173232.190564983,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,30,0.007938699688838232,1154393.5598458878,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,31,0.0081947146326856,1135857.4216855757,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,32,0.0084589857965743,1117618.9189503475,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,33,0.00873177943515475,1099673.2724976696,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,34,0.009013370389517439,1082015.7799238714,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,35,0.009304042364096874,1064641.814331943,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,36,0.009604088212505378,1047546.8231191223,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,37,0.00991381023258466,1030726.3267839516,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,38,0.01023352047097258,1014175.9177524869,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,39,0.01056354103749187,997891.2592233534,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,40,0.010904204429677527,981868.0840313492,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,41,0.0112558538677699,966102.193529296,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,42,0.011618843640511002,950589.45648784,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,43,0.011993539462092343,935325.8080129238,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,44,0.01238031884061398,920307.2484806378,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,45,0.012779571458426009,905529.8424891745,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,46,0.013191699564735716,890989.717827611,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,47,0.013617118380875795,876683.0644612539,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,48,0.014056256518642157,862606.1335332706,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,49,0.014509556412122692,848755.2363823546,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,50,0.014977474763452016,835126.7435761646,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,51,0.015460483002941375,821717.0839602831,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,52,0.01595906776404731,808522.7437224444,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,53,0.016473731373657517,795540.2654717907,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,54,0.01700499235818793,782766.2473329118,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,55,0.017553385966000982,770197.3420544306,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,56,0.01811946470667124,757830.2561319034,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,57,0.018703798907641827,745661.7489448044,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,58,0.019306977288832496,733688.6319073654,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,59,0.01992960755577817,721907.7676330524,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,60,0.02057231701189557,710316.0691124585,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,61,0.021235753190494904,698910.4989043955,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,62,0.021920584507173258,687688.0683399751,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,63,0.022627500933246898,676645.8367394715,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,64,0.023357214690901226,665780.9106417575,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,65,0.02411046097075855,655090.4430461123,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,66,0.024887998672586672,644571.632666207,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,67,0.025690611169894528,634221.723196066,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,68,0.02651910709918538,624038.0025878163,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,69,0.0273743211746625,614017.8023410328,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,70,0.028257115029208284,604158.4968034968,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,71,0.029168378082484195,594457.5024831794,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,72,0.030109028437025925,584912.2773712744,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,73,0.031080013803236693,575520.3202761015,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,74,0.03208231245421079,566279.1701677025,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,75,0.033116934211349,557186.4055329651,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,76,0.03418492146175929,548239.643741098,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,77,0.03528735020846752,539436.5404192967,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,78,0.03642533115449638,530774.788838434,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,79,0.037600010821904846,522252.1193086134,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,80,0.03881257270691538,513866.2985844295,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,81,0.040064238472292985,505615.1292797768,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,82,0.0413562691781771,497496.44929205655,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,83,0.042689966552606554,489508.1312356276,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,84,0.04406667430301786,481648.08188435517,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,85,0.04548777947003778,473914.2416231104,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,86,0.04695471382493428,466304.5839080776,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,87,0.04846895531213418,458817.1147357264,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,88,0.05003202953826004,451449.8721203114,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,89,0.05164551130918742,444200.92557976214,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,90,0.05331102621667035,437068.3756298264,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,91,0.05503025227613395,430050.353286338,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,92,0.05680492161728426,423145.01957547537,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,93,0.05863682222923843,416350.5650518845,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,94,0.06052779976193349,409665.20932453976,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,95,0.062479759385628976,403087.2005902163,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,96,0.06449466771037624,396614.8151744565,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,97,0.06657455476738906,390246.35707990365,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,98,0.06872151605431122,383980.1575418905,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,99,0.07093771464644173,377814.57459116355,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,100,0.07322538337604534,371747.99262362707,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,101,0.07558682708194318,365778.82197699754,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,102,0.07802442493165049,359905.498514255,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,103,0.08054063281840114,354126.48321378254,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,104,0.08313798583547334,348440.2617660881,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,105,0.0858191008303103,342845.3441770002,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,106,0.08858667904100828,337340.2643772368,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,107,0.09144350881782871,331923.5798382418,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,108,0.09439246843247669,326593.8711941912,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,109,0.09743652897797535,321349.7418700681,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,110,0.10057875736205836,316189.81771571,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,111,0.10382231939709657,311112.74664573214,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,112,0.10717048298967109,306117.1982852326,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,113,0.11062662143300736,301201.86362118594,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,114,0.1141942168055866,296365.4546594354,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,115,0.11787686347935872,291606.7040871918,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,116,0.12167827174109236,286924.36494095204,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,117,0.1256022715305086,282317.2102797503,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,118,0.12965281629896683,277784.032863655,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,119,0.1338339869925884,273323.64483742864,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,120,0.13814999616383222,268934.8774192676,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,121,0.14260519221566487,264616.5805945386,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,122,0.1472040637826002,260367.62281443406,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,123,0.15195124425302323,256186.89069946573,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,124,0.1568515164373548,252073.28874771882,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,125,0.16190981738675872,248025.73904779178,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,126,0.16713124336724874,244043.18099634437,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,127,0.1725210549942041,240124.57102018144,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,128,0.1780846825324682,236268.88230279987,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,129,0.183827731367371,232475.1045153252,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,130,0.18975598765218504,228742.24355176924,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,131,0.1958754241377066,225069.32126853912,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,132,0.20219220618983547,221455.37522812784,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,133,0.20871269800121428,217899.4584469217,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,134,0.21544346900318834,214400.63914705618,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,135,0.22239130048454334,210958.00051225678,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,136,0.22956319242369097,207570.6404476005,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,137,0.23696637054118613,204237.67134313425,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,138,0.24460829357967992,200958.21984128928,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,139,0.2524966608186434,197731.42660803034,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,140,0.26063941983143496,194556.44610767878,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,141,0.269044774492523,191432.4463813526,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,142,0.2777211932429355,188358.6088289628,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,143,0.2866774176222607,185334.12799471078,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,144,0.2959224710757956,182358.21135603037,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,145,0.30546566804571773,179430.0791159181,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,146,0.3153166233554365,176548.96399859845,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,147,0.3254852618965799,173714.11104847037,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,148,0.3359818286283781,170924.7774322814,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,149,0.34681689889951695,168180.2322444788,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,150,0.35800138910285806,165479.75631568616,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,151,0.36954656767376554,162822.6420242553,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,152,0.38146406644311776,160208.19311084354,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,153,0.3937658923564388,157635.72449596922,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,154,0.4064644395709628,155104.56210049623,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,155,0.4195725019428171,152614.04266900066,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,156,0.4331032859169001,150163.51359597463,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,157,0.44707042383244866,147752.33275481983,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,158,0.4614879876576939,145379.86832958748,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,159,0.47637050316744856,143045.49864941966,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,160,0.49173296457790205,140748.61202564958,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,161,0.5075908496533773,138488.60659151681,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,162,0.5239601353002644,136264.8901444568,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,163,0.5408573136638394,134076.87999092252,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,164,0.5582994087441919,131924.0027936978,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,165,0.5763039935480013,129805.69442166231,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,166,0.5948892077934337,127721.39980196916,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,167,0.6140737761860094,125670.57277459581,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,168,0.6338770272838488,123652.67594923022,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,169,0.6543189129712969,121667.1805644559,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,170,0.6754200285605587,119713.56634919692,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,171,0.697201633541591,117791.32138638836,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,172,0.7196856730011522,115899.94197883576,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,173,0.7428947997325991,114038.93251722834,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,174,0.766852397058701,112207.80535027153,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,175,0.7915826023904678,110406.08065690463,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,176,0.8171103315457203,108633.28632057087,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,177,0.8434613038519153,106888.9578055057,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,178,0.8706620680585127,105172.63803501152,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,179,0.8987400290849806,103483.87727168768,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,180,0.927723475631406,101822.23299958275,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,181,0.957641608679517,100187.26980823946,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,182,0.9885245709128281,98578.55927860181,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,183,1.0204034770855617,96995.6798707536,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,184,1.053310445370937,95438.21681345995,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,185,1.0872786297204007,93905.76199548236,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,186,1.1223422532664185,92397.91385863895,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,187,1.1585366428024675,90914.27729258174,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,188,1.1958982643749794,89454.46353126345,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,189,1.234464760023076,88018.09005106709,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,190,1.2742749857031335,86604.78047057087,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,191,1.3153690504363764,85214.16445192268,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,192,1.357788356718929,83845.87760379848,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,193,1.401575642235062,82499.56138591863,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,194,1.446775022915648,81174.86301509725,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,195,1.4934320373851964,79871.43537280068,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,196,1.5415936928422718,78588.93691418984,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,197,1.5913085124195103,77327.03157862303,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,198,1.642626584070932,76085.3887015963,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,199,1.6955996110358358,74863.68292809729,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,200,1.7502809639301011,73661.59412735044,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,201,1.8067257345173682,72478.80730893153,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,202,1.864990791214298,71315.01254022859,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,203,1.9251348363858123,70169.90486522866,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,204,1.9872184654880554,69043.18422460806,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,205,2.0513042281186395,67934.55537710646,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,206,2.117456691035712,66843.72782216282,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,207,2.1857425032093265,65770.41572379376,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,208,2.256230462970635,64714.33783569452,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,209,2.328991587326589,63675.21742754216,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,210,2.4040991835099716,62652.78221248222,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,211,2.4816289228368262,61646.76427577998,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,212,2.561658916945727,60656.900004617055,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,213,2.6442697964956934,59682.93001901532,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,214,2.7295447924020073,58724.59910387024,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,215,2.817569819691825,57781.65614207516,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,216,2.908433564064048,56853.85404871962,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,217,3.0022275712406343,55940.949706344414,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,218,3.09904633919943,55042.70390123587,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,219,3.198987413381393,54158.88126074347,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,220,3.3021514849681757,53289.25019160348,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,221,3.4086424923290233,52433.58281925356,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,222,3.518567725739263,51591.65492812121,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,223,3.632037935475856,50763.24590287121,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,224,3.7491674433988895,49948.13867059668,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,225,3.8700742581314898,49146.11964393806,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,226,3.9948801939541703,48356.97866511548,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,227,4.123710993533366,47580.50895086004,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,228,4.256696454607871,46816.507038229116,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,229,4.39397056076079,46064.77273129163,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,230,4.535671616408707,45325.109048669736,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,231,4.6819423861441605,44597.32217192251,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,232,4.832930238571752,43881.22139475857,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,233,4.988787294782838,43176.61907306416,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,234,5.149670581618343,42483.33057573372,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,235,5.3157421898741735,41801.1742362899,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,236,5.487169437608604,41129.97130528031,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,237,5.664125038716113,40469.545903438906,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,238,5.846787276937589,39819.72497559922,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,239,6.035340185482205,39180.338245347644,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,240,6.229973732441847,38551.21817040502,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,241,6.430884012185032,37932.19989872449,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,242,6.638273442923081,37323.12122529425,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,243,6.852350970647541,36723.8225496342,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,244,7.073332279644439,36134.146833974744,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,245,7.301440009797405,35553.939562107276,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,246,7.536903980898542,34983.048698895436,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,247,7.779961424193153,34421.324650436414,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,248,8.030857221391512,33868.620224861996,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,249,8.289844151388566,33324.79059376894,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,250,8.55718314494001,32789.69325426885,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,251,8.833143547551487,32263.187991647228,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,252,9.118003390845681,31745.136842622167,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,253,9.41204967268067,31235.40405919307,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,254,9.715578646301857,30733.856073069815,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,255,10.028896118818778,30240.361460672964,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,256,10.352317759307388,29754.790908696177,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,257,10.686169416848418,29277.017180221457,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,258,11.030787448822151,28806.915081378436,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,259,11.386519059790261,28344.361428539196,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,260,11.753722651306367,27889.235016039656,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,261,12.132768183007542,27441.416584419407,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,262,12.524037545350732,27000.788789171318,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,263,12.927924944369414,26567.236169993244,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,264,13.344837298838383,26140.645120533158,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,265,13.775194650246691,25720.903858620208,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,266,14.219430585991676,25307.902396973856,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,267,14.67799267622069,24901.53251438319,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,268,15.15134292476053,24501.687727349097,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,269,15.639958234588738,24108.263262181772,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,270,16.14433088831602,23721.15602754628,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,271,16.664969044163733,23340.264587448833,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,272,17.20239724793599,22965.48913465702,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,273,17.757156961502485,22596.731464546694,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,274,18.329807108324356,22233.894949368776,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,275,18.92092463657255,21876.884512929413,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,276,19.53110510040633,21525.60660567655,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,277,20.160963259997345,21179.969180186574,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,278,20.811133700903948,20839.881667044607,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,279,21.482271473419527,20505.254951112074,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,280,22.17505275253932,20176.001348175334,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,281,22.890175519210516,19852.034581969234,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,282,23.628360263551777,19533.269761569678,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,283,24.390350710751026,19219.623359149147,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,284,25.17691457037277,18911.013188089364,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,285,25.988844309829542,18607.358381445512,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,286,26.826957952797247,18308.579370756164,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,287,27.6920999033786,18014.597865193467,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,288,28.585141796844745,17725.33683104817,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,289,29.506983377812645,17440.720471544028,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,290,30.45855340674284,17160.67420697626,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,291,31.440810595670527,16885.12465516909,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,292,32.45474457411332,16613.999612246906,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,293,33.50137688612842,16347.228033714286,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,294,34.58176201952377,16084.740015839781,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,295,35.69698846826063,15826.466777338597,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,296,36.848179829116766,15572.340641349496,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,297,38.036495933716715,15322.295017700977,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,298,39.263134017068396,15076.264385462277,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,299,40.529329923784005,14834.184275774527,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,300,41.83635935320024,14595.991254957611,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,301,43.18553914465228,14361.622907888259,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,302,44.578228604197065,14131.017821645002,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,303,46.01583087412105,13904.115569415864,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,304,47.499794346614124,13680.856694664302,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,305,49.03161412303265,13461.18269554949,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,306,50.61283352022224,13245.036009596723,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,307,52.24504562541794,13032.359998613989,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,308,53.9298949012887,12823.098933850699,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,309,55.66907884274202,12617.197981394815,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,310,57.46434968715974,12414.603187804345,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,311,59.31751617978678,12215.261465969623,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,312,61.2304453960519,12019.120581202578,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,313,63.20506462265646,11826.129137549371,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,314,65.24336329932622,11636.236564322819,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,315,67.34739502318335,11449.393102851016,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,316,69.51927961775606,11265.549793438839,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,317,71.76120526871287,11084.658462538711,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,318,74.0754307284717,10906.67171012741,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,319,76.46428759190529,10731.542897285557,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,320,78.93018264543566,10559.226133976565,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,321,81.47560029188539,10389.676267021747,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,322,84.10310505352605,10222.848868268637,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,323,86.81534415584922,10058.700222949172,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,324,89.6150501946605,9897.187318224858,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,325,92.50504388918488,9738.267831915877,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,326,95.48823692395656,9581.900121411149,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,327,98.56763488235805,9428.043212756442,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,328,101.74634027476063,9276.65678991779,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,329,105.0275556643215,9127.70118421719,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,330,108.4145868935835,8981.13736393801,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,331,111.91084641512968,8836.926924097268,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,332,115.51985672964804,8695.032076382146,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,333,119.24525393487008,8555.415639248115,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,334,123.09079138896018,8418.041028175985,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,335,127.06034349204326,8282.872246085519,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,336,131.15790958968503,8149.873873902853,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,337,135.38761800225447,8019.011061279444,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,338,139.75373018422925,7890.249517460029,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,339,144.26064501763435,7763.555502297218,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,340,148.91290324394086,7638.895817410337,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,341,153.7151920388865,7516.2377974863075,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,342,158.67234973483178,7395.549301720126,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,343,163.78937069540646,7276.798705392834,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,344,169.07141034735818,7159.9548915847,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,345,174.5237903746733,7044.98724302147,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,346,180.15200408020237,6931.865634051556,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,347,185.96172192019458,6820.560422751993,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,348,191.95879721731112,6711.04244316125,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,349,198.14927205788163,6603.282997636656,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,350,204.53938337933903,6497.253849334604,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,351,211.1355692539681,6392.927214811482,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,352,217.94447537529834,6290.275756743424,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,353,224.97296175367862,6189.272576762911,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,354,232.22810962777245,6089.891208410489,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,355,239.71722859894683,5992.1056101995655,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,356,247.44786399573528,5895.890158792621,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,357,255.42780447579773,5801.219642286972,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,358,263.6650898730361,5708.069253608345,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,359,272.16801929777046,5616.414584010541,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,360,280.94515949814064,5526.2316166794435,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,361,290.0053534911486,5437.496720439784,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,362,299.357729472049,5350.186643562907,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,363,309.0117100110557,5264.278507673983,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,364,318.9770215466325,5179.749801757057,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,365,329.2637041849333,5096.578376256355,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,366,339.8821218152667,5014.742437272289,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,367,350.84297255176733,4934.2205408507,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,368,362.1572995118075,4854.991587363755,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,369,373.8365019419977,4777.034815981088,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,370,385.8923467029907,4700.329799229723,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,371,398.3369801246579,4624.856437641336,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,372,411.18294024358283,4550.59495448548,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,373,424.4431694352053,4477.525890587356,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,374,438.13102745333055,4405.630099228833,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,375,452.2603048901584,4334.888741131307,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,376,466.8452370703794,4265.283279519135,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,377,481.9005183933432,4196.7954752623355,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,378,497.44131713774516,4129.4073820972835,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,379,513.4832907437549,4063.1013419241317,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,380,530.0426015879673,3997.85998017978,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,381,547.1359332670895,3933.666201285095,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,382,564.7805074067558,3870.503184165262,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,383,582.9941010124094,3808.3543778420585,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,384,601.7950643797328,3747.203497096908,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,385,621.2023395826757,3687.0345182035517,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,386,641.2354795576917,3627.831674729282,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,387,661.9146678034341,3569.579453403553,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,388,683.2607387157406,3512.262590052953,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,389,705.295198578401,3455.8660656014404,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,390,728.0402472308576,3400.3751021348085,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,391,751.5188004346628,3345.7751590283465,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,392,775.7545129612414,3292.0519291366536,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,393,800.7718024241935,3239.1913350446825,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,394,826.5958738801812,3187.17952537893,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,395,853.2527452231593,3136.0028711778887,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,396,880.7692733975471,3085.647962320766,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,397,909.173181456745,3036.1016040135564,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,398,938.4930864942721,2987.350813331517,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,399,968.758528475632,2939.382815817198,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"
+trendline,Literature cooling rate trendline,400,1000.0,2892.185042133058,,,,,,"CR = 9.8e4 * Q^(-0.51), exactly as specified in Figure_1.m"

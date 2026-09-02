@@ -1,0 +1,17 @@
+panel,series_type,series_name,point_index,time_min,time_s,viability_percent,viability_percent,viability_percent,viability_percent mean,sd (n = 3)
+6b,experimental_summary,Control,1,1,,100,98,99,99,1
+6b,experimental_summary,Control,2,5,,99,98,97,98,1
+6b,experimental_summary,Control,3,10,,100,96,98,98,2
+6b,experimental_summary,Control,4,20,,100,100,98,99.33333333,1.154700538
+6b,experimental_summary,Control,5,30,,100,100,97,99,1.732050808
+6b,experimental_summary,0.5 M Trehalose,1,1,,99,99,99,99,0
+6b,experimental_summary,0.5 M Trehalose,2,5,,97,100,98,98.33333333,1.527525232
+6b,experimental_summary,0.5 M Trehalose,3,10,,97,100,100,99,1.732050808
+6b,experimental_summary,0.5 M Trehalose,4,20,,96,99,95,96.66666667,2.081665999
+6b,experimental_summary,0.5 M Trehalose,5,30,,100,99,97,98.66666667,1.527525232
+6b,experimental_summary,2.5 M PG + 1 M Trehalose,1,1,,97,100,94,97,3
+6b,experimental_summary,2.5 M PG + 1 M Trehalose,2,5,,95,99,93,95.66666667,3.055050463
+6b,experimental_summary,2.5 M PG + 1 M Trehalose,3,10,,96,92,90,92.66666667,3.055050463
+6b,experimental_summary,2.5 M PG + 1 M Trehalose,4,20,,95,96,89,93.33333333,3.785938897
+6b,experimental_summary,2.5 M PG + 1 M Trehalose,5,30,,91,94,88,91,3
+,,,,,,,,,,

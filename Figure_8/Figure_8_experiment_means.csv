@@ -1,0 +1,14 @@
+Group,Experiment,SourceReplicate,FieldCount,Mean_pct
+Control,1,1,8,92.9848035936156
+Control,2,2,9,95.4790249433107
+Control,3,3,10,98.9684359019573
+Control,4,4,8,93.6102236421725
+Spray control,1,1,9,107.298735225716
+Spray control,2,3,10,86.9864221477693
+Spray control,3,4,8,90.8945686900958
+Cryoaerosolization + Rewarming,1,2,9,83.0357142857143
+Cryoaerosolization + Rewarming,2,3,10,93.299241756304
+Cryoaerosolization + Rewarming,3,4,8,97.1017800091282
+Convective Cooling + Rewarming,1,2,9,27.3384353741497
+Convective Cooling + Rewarming,2,3,9,5.71131879543094
+Convective Cooling + Rewarming,3,4,8,3.74258329529895

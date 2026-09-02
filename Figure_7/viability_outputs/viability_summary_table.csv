@@ -1,0 +1,13 @@
+Cell_type,Experimental_group,Mean_pct,Err_lower_pct,Err_upper_pct,n,Error_bar_description
+HDF,Control,98.7479741033333,0.467298079335897,0.467298079335897,6,SD across six independent experiments
+HDF,Spray + CPA Loading/Unloading,95.1900065183333,2.1162436625354,2.1162436625354,6,SD across six independent experiments
+HDF,Cryoaerosolization + Rewarming,90.4525953833333,5.0904354055695,5.0904354055695,6,SD across six independent experiments
+HDF,Convective Cooling + Rewarming,6.778982415,4.46823078578188,4.46823078578188,6,SD across six independent experiments
+RBC,Control,98.68333325,0.103494551654905,0.103494551654905,4,SD across four independent experiments
+RBC,Spray + CPA Loading/Unloading,93.87163325,2.46519052716314,2.46519052716314,4,SD across four independent experiments
+RBC,Cryoaerosolization + Rewarming,94.45751111,2.65217977499137,2.65217977499137,3,SD across three independent experiments
+RBC,Convective Cooling + Rewarming,83.6870833325,0.741674055181849,0.741674055181849,4,SD across four independent experiments
+hiPSCs,Control,99.5625,0.426956281914983,0.426956281914983,4,SD across four independent experiments
+hiPSCs,Spray + CPA Loading/Unloading,94.25,3.5,3.5,3,SD across three independent experiments
+hiPSCs,Cryoaerosolization + Rewarming,92.25,4.50693909432999,4.50693909432999,3,SD across three independent experiments
+hiPSCs,Convective Cooling + Rewarming,4.91666666666667,3.50297492616395,3.50297492616395,3,SD across three independent experiments

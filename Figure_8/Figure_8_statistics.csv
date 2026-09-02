@@ -1,0 +1,4 @@
+Comparison,RawPValue,HolmAdjustedPValue,SignificanceLabel
+Control vs Spray control,0.977491441976136,1,ns
+Spray control vs Cryoaerosolization + Rewarming,0.633256223681535,1,ns
+Cryoaerosolization + Rewarming vs Convective Cooling + Rewarming,0.0023519054947935,0.00705571648438049,**

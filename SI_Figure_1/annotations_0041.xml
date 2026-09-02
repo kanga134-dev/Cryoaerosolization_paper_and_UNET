@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>2973234</id>
+      <size>13</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-09-15 07:02:49.501468+00:00</created>
+      <updated>2025-09-21 23:41:41.396082+00:00</updated>
+      <subset>Train</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>12</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>2975021</id>
+          <start>0</start>
+          <stop>12</stop>
+          <url>https://app.cvat.ai/api/jobs/2973234/dataset/export/api/jobs/2973234</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>abhilash18</username>
+        <email>ojha0013@umn.edu</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Droplet</name>
+          <color>#a25868</color>
+          <type>ellipse</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-08-15 22:47:53.395370+00:00</dumped>
+  </meta>
+  <image id="0" name="0041.tif" width="5440" height="3648">
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1168.17" cy="1525.77" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1366.21" cy="1624.90" rx="103.79" ry="103.28" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1838.40" cy="1596.30" rx="107.40" ry="102.60" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1758.13" cy="1786.02" rx="103.73" ry="103.43" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1561.40" cy="1716.53" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1399.04" cy="1846.81" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1603.88" cy="1970.20" rx="133.70" ry="132.30" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1766.50" cy="2146.22" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1901.78" cy="1982.80" rx="104.77" ry="102.10" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2140.21" cy="1922.50" rx="106.41" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1965.10" cy="1760.95" rx="104.75" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2163.33" cy="1675.11" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2332.67" cy="1801.21" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2333.41" cy="2016.17" rx="103.73" ry="103.73" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2150.45" cy="2135.34" rx="104.45" ry="104.36" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2165.85" cy="2351.18" rx="103.89" ry="103.62" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1958.05" cy="2169.49" rx="86.69" ry="86.79" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1776.31" cy="1391.64" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1586.47" cy="1497.15" rx="105.86" ry="105.75" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1677.11" cy="1180.70" rx="103.81" ry="103.90" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1889.00" cy="1216.79" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1984.03" cy="1412.97" rx="104.07" ry="104.33" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2120.56" cy="1247.28" rx="102.93" ry="102.91" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2219.10" cy="1445.00" rx="105.06" ry="105.08" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2363.70" cy="1597.33" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2509.02" cy="1727.82" rx="86.77" ry="86.70" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2512.41" cy="1918.98" rx="103.64" ry="103.75" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2530.91" cy="2131.17" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2346.83" cy="2239.90" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2361.07" cy="2453.32" rx="106.24" ry="106.05" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2237.18" cy="2634.27" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3099.80" cy="1965.83" rx="103.53" ry="103.56" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3304.78" cy="1931.29" rx="103.67" ry="103.81" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3507.66" cy="1963.55" rx="102.65" ry="102.17" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3706.60" cy="2031.88" rx="103.00" ry="103.13" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3900.26" cy="2110.54" rx="103.27" ry="103.45" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3432.66" cy="1566.59" rx="102.53" ry="102.92" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3282.54" cy="1722.22" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3073.99" cy="1751.19" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2900.10" cy="1906.02" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2705.45" cy="2014.82" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2718.88" cy="2235.32" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2891.93" cy="2119.96" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2943.66" cy="2328.56" rx="102.58" ry="102.86" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2895.83" cy="2591.74" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3077.54" cy="2492.88" rx="103.25" ry="103.43" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3229.88" cy="2351.32" rx="103.68" ry="103.60" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3093.88" cy="2182.30" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3291.58" cy="2146.48" rx="103.41" ry="103.69" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3432.13" cy="2306.71" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3618.58" cy="2221.92" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3645.85" cy="2430.92" rx="102.96" ry="102.70" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2493.26" cy="1432.39" rx="103.49" ry="103.29" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2638.20" cy="1580.88" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2688.88" cy="1804.17" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2865.72" cy="1690.67" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3018.71" cy="1540.29" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2821.15" cy="1478.62" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2954.35" cy="1314.82" rx="102.65" ry="102.90" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2748.15" cy="1279.92" rx="104.25" ry="104.12" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2537.39" cy="1223.32" rx="103.68" ry="103.70" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2330.21" cy="1261.47" rx="104.27" ry="104.01" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2240.84" cy="1070.40" rx="103.30" ry="103.31" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2011.64" cy="1040.41" rx="105.29" ry="105.04" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1795.67" cy="1009.57" rx="101.69" ry="101.74" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1461.96" cy="924.90" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1698.98" cy="834.68" rx="90.04" ry="90.46" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1896.65" cy="824.17" rx="103.97" ry="103.96" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2105.44" cy="851.45" rx="101.86" ry="101.82" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2315.00" cy="868.22" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2454.09" cy="1025.44" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2499.15" cy="771.41" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2705.56" cy="807.09" rx="102.98" ry="103.14" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2616.54" cy="600.47" rx="105.29" ry="105.32" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2690.32" cy="1074.70" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2897.80" cy="1093.35" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3105.21" cy="1105.55" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3167.70" cy="1312.35" rx="105.67" ry="105.75" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3227.38" cy="1512.73" rx="103.92" ry="103.38" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3374.19" cy="1363.01" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3575.85" cy="1409.71" rx="105.29" ry="105.41" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3632.63" cy="1614.37" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3477.30" cy="1759.58" rx="92.63" ry="92.84" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3667.58" cy="1826.02" rx="103.63" ry="103.80" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3866.23" cy="1898.61" rx="103.45" ry="103.46" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4064.88" cy="1968.53" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3815.42" cy="2301.90" rx="103.19" ry="103.32" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3461.39" cy="2505.77" rx="99.27" ry="98.99" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3271.11" cy="2576.34" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3096.78" cy="2714.20" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3270.98" cy="2834.03" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3440.36" cy="2706.99" rx="104.33" ry="104.15" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3638.07" cy="2641.24" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3835.27" cy="2580.17" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3786.73" cy="2778.35" rx="94.34" ry="94.73" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3986.07" cy="2802.13" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4077.99" cy="2618.14" rx="102.61" ry="102.70" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4218.14" cy="2812.35" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4090.31" cy="2986.18" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3872.47" cy="2980.73" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3670.01" cy="3037.52" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3524.71" cy="2921.30" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3459.40" cy="3075.60" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2904.63" cy="868.28" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3115.88" cy="891.39" rx="103.82" ry="103.49" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3326.28" cy="941.05" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3311.21" cy="1155.26" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3516.40" cy="1204.75" rx="103.40" ry="103.65" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3717.49" cy="1257.42" rx="102.61" ry="102.63" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3776.34" cy="1463.21" rx="103.26" ry="103.08" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3964.77" cy="1551.86" rx="103.40" ry="103.26" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3823.38" cy="1688.72" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4027.98" cy="1761.91" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4232.55" cy="1815.41" rx="102.51" ry="102.70" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4264.55" cy="2032.94" rx="103.75" ry="103.96" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4066.73" cy="2236.52" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3980.08" cy="2428.96" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4184.64" cy="2436.85" rx="102.58" ry="102.95" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4276.16" cy="2620.48" rx="92.94" ry="92.97" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4472.64" cy="2668.35" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3978.53" cy="3157.38" rx="102.72" ry="102.57" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3819.61" cy="3289.87" rx="103.44" ry="103.10" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3987.87" cy="3406.21" rx="102.94" ry="102.83" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3609.39" cy="3266.26" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3400.91" cy="3279.70" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3539.58" cy="3470.44" rx="102.86" ry="102.72" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3741.18" cy="3473.98" rx="90.32" ry="90.12" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2681.70" cy="2681.76" rx="131.49" ry="131.93" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2439.39" cy="2695.00" rx="102.58" ry="102.85" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2502.89" cy="2895.29" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2712.75" cy="2911.04" rx="102.56" ry="102.63" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2596.51" cy="3084.22" rx="103.39" ry="103.28" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2401.93" cy="3062.60" rx="85.46" ry="85.37" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2299.41" cy="2852.06" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2095.74" cy="2784.83" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2916.56" cy="592.46" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3115.28" cy="666.14" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3068.75" cy="443.19" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3275.94" cy="531.15" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2814.32" cy="401.30" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2974.97" cy="254.64" rx="102.61" ry="102.58" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3208.41" cy="192.44" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3399.70" cy="272.92" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3576.69" cy="398.60" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3495.83" cy="592.00" rx="102.61" ry="102.57" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3347.49" cy="729.59" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3584.40" cy="786.81" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3527.39" cy="989.65" rx="105.56" ry="105.60" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3732.26" cy="950.04" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3870.33" cy="1116.10" rx="103.15" ry="103.27" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3913.73" cy="1320.19" rx="99.70" ry="99.82" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4116.80" cy="1279.20" rx="102.90" ry="102.90" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4074.76" cy="1072.31" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3936.56" cy="915.90" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3801.38" cy="758.57" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3704.32" cy="572.06" rx="102.12" ry="102.10" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4416.44" cy="2873.94" rx="102.88" ry="102.74" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4296.13" cy="3047.79" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4177.71" cy="3226.45" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4384.64" cy="3237.10" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4221.70" cy="3432.81" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4093.24" cy="3595.28" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3887.01" cy="3609.79" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4434.31" cy="3450.17" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4296.77" cy="3639.78" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4528.00" cy="3644.80" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4640.34" cy="3438.52" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4780.90" cy="3195.21" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4849.12" cy="3390.03" rx="103.38" ry="103.23" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4780.83" cy="3594.90" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5058.98" cy="3390.48" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4978.15" cy="3199.26" rx="101.05" ry="101.24" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5184.89" cy="3226.38" rx="102.48" ry="102.70" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5378.40" cy="3315.87" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5256.04" cy="3476.47" rx="93.46" ry="93.30" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4994.65" cy="3592.68" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4509.10" cy="3063.05" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4771.54" cy="2987.27" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4621.28" cy="2838.60" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4922.97" cy="2833.02" rx="102.03" ry="102.08" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5120.90" cy="2797.84" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5065.14" cy="3006.38" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5280.20" cy="2936.86" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5380.53" cy="2748.23" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5414.55" cy="2543.64" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5233.29" cy="2604.71" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5026.34" cy="2616.79" rx="102.61" ry="102.59" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4816.38" cy="2641.85" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4590.63" cy="2495.93" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5229.23" cy="2177.14" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5434.48" cy="2255.65" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5262.12" cy="2389.10" rx="102.23" ry="102.25" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5054.26" cy="2400.36" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4927.80" cy="2326.64" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4866.85" cy="2442.91" rx="95.27" ry="95.31" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4720.74" cy="2328.44" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4874.06" cy="2186.38" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4634.13" cy="1997.86" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4457.14" cy="2105.41" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4300.11" cy="2248.21" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4396.46" cy="2348.74" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4540.56" cy="2187.89" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4669.98" cy="2116.83" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4442.31" cy="1805.26" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4663.32" cy="1904.14" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4872.70" cy="1909.95" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5070.44" cy="1826.59" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4188.97" cy="907.15" rx="103.47" ry="103.18" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3979.27" cy="658.23" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4183.55" cy="694.32" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4341.18" cy="818.06" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3805.33" cy="386.30" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3799.60" cy="157.85" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3590.87" cy="190.32" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3041.60" cy="50.78" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2781.02" cy="134.30" rx="86.63" ry="86.80" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4387.71" cy="1048.05" rx="102.99" ry="102.85" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4539.10" cy="1259.11" rx="103.80" ry="102.50" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4646.17" cy="1436.28" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4740.24" cy="1666.97" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4541.73" cy="1616.22" rx="103.59" ry="103.59" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4331.86" cy="1624.72" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1350.96" cy="1409.98" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5135.46" cy="1620.68" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4943.04" cy="1527.34" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5105.94" cy="1385.59" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5303.27" cy="1309.45" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5243.36" cy="1072.18" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4910.73" cy="1266.83" rx="103.95" ry="103.79" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5039.51" cy="1094.50" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5234.26" cy="504.31" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4141.88" cy="109.39" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="4352.77" cy="54.90" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1940.53" cy="2356.97" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1731.58" cy="2359.44" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2049.34" cy="2536.71" rx="103.14" ry="103.24" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1841.54" cy="2537.01" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1643.00" cy="2608.08" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1535.32" cy="2427.74" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1572.79" cy="2213.73" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1373.72" cy="2287.23" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1382.30" cy="2075.79" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1196.48" cy="1961.62" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1190.41" cy="1749.35" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="982.08" cy="1743.44" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="775.49" cy="1749.17" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="721.66" cy="1958.24" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="989.22" cy="1964.85" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="829.31" cy="2146.49" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1129.10" cy="2151.06" rx="96.64" ry="96.96" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="948.85" cy="2309.79" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1163.93" cy="2346.62" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="1472.05" cy="2725.08" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2664.16" cy="3294.30" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2460.96" cy="3248.77" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2533.82" cy="3458.16" rx="102.12" ry="102.10" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2736.58" cy="3510.96" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2936.26" cy="3574.94" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2964.37" cy="3362.65" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3336.93" cy="3469.46" rx="103.12" ry="104.04" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3140.69" cy="3536.82" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3254.40" cy="3113.74" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="3107.16" cy="2964.87" rx="101.66" ry="101.17" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="2906.29" cy="3002.48" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5235.65" cy="1963.77" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5048.78" cy="2066.28" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5287.34" cy="1759.63" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+    <ellipse label="Droplet" source="manual" occluded="0" cx="5329.96" cy="1538.79" rx="105.04" ry="104.51" z_order="0">
+    </ellipse>
+  </image>
+
+</annotations>

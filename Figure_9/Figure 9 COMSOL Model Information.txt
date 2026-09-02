@@ -1,0 +1,51 @@
+Figure 9 COMSOL Model Information
+
+Model formulation
+The Figure 9 simulations used a transient, two-dimensional axisymmetric model of a spherical droplet surrounded by a finite rewarming bath. The droplet domain was modeled with transient heat conduction only (no internal droplet flow), while the surrounding bath was modeled with transient heat transfer and incompressible laminar flow. Buoyancy-driven free convection in the bath was included using the Boussinesq approximation and gravity. Heat transfer therefore arose from the coupled conduction/free-convection solution rather than from a prescribed convective heat-transfer coefficient.
+
+COMSOL physics interfaces and study
+The model used the following COMSOL physics interfaces:
+- Heat Transfer in Solids and Fluids: applied to both domains. The droplet was treated as a solid-like conduction domain to suppress internal fluid motion, and the surrounding bath was treated as a heat-transfer-in-fluids domain.
+- Laminar Flow: applied only to the surrounding bath domain to solve the incompressible fluid velocity and pressure fields.
+- Nonisothermal Flow multiphysics coupling: coupled the bath temperature and velocity fields and supplied the buoyancy-driven free-convection contribution.
+- Time Dependent study: solved the transient warming process.
+
+Free convection and Boussinesq approximation
+Gravity was enabled in the vertical direction. Thermal buoyancy in the surrounding bath was represented with the Boussinesq approximation,
+
+rho = rho_ref*[1 - beta*(T - T_ref)],
+
+with the reference temperature taken as the initial bath temperature, T_ref = 310.15 K. The bath flow was incompressible and laminar. Free convection was solved directly; an empirical or prescribed convective heat-transfer coefficient was not applied at the droplet surface.
+
+Materials
+The droplet was represented as a supercooled 2 M propylene glycol solution. The surrounding rewarming bath was represented as a 1 M trehalose solution at 37 degrees C (310.15 K). No density or viscosity correlations are included here because they were not provided in the available COMSOL property screenshots.
+
+Droplet thermophysical-property functions
+In both functions below, the COMSOL function argument x is temperature in kelvin (K).
+
+Specific heat capacity, function pw1
+Valid interval: 123 <= x <= 273 K
+pw1(x) = 0.1262*(x - 273)^2 + 38.2735*(x - 273) + 3800
+
+Thermal conductivity, function pw2
+Valid interval: 123 <= x <= 283 K
+pw2(x) = -9.7673e-05*(x - 273)^2 - 0.0223*(x - 273) + 0.9699
+
+Droplet-bath interface conditions
+The droplet and surrounding bath were modeled as adjacent domains sharing an interior boundary. The Heat Transfer interface imposed thermal continuity at this boundary:
+
+T_droplet = T_bath
+
+-k_droplet*grad(T_droplet).n = -k_bath*grad(T_bath).n
+
+Thus, temperature and normal conductive heat flux were continuous across the fluid-fluid/domain interface. No fixed surface temperature, prescribed heat flux, or convective boundary condition of the form h*(T_infinity - T) was applied at the droplet surface. Because internal droplet flow was not solved, the droplet surface was a no-slip wall for the bath flow.
+
+Initial and external boundary conditions
+- Initial bath temperature: 310.15 K (37 degrees C).
+- Initial droplet temperature: the cryogenic initial temperature reported for the corresponding Figure 9 case.
+- Outer bath thermal boundaries: fixed at 310.15 K.
+- Outer bath flow boundaries: no slip.
+- Symmetry axis at r = 0: the standard two-dimensional axisymmetric heat-transfer and flow conditions.
+
+Notes on reconstruction
+The droplet diameters were those of the two Figure 9 cases. The bath domain was selected to be sufficiently large that the distant boundaries did not materially affect the short-time droplet temperature response. The exact original bath dimensions, initial droplet temperature values, and density and viscosity functions are not specified in this file because they were not available in the recovered model information.
